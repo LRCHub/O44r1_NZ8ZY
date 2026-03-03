@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Glorious Moment！",
+  "base_artist": "ナリタトップロード (CV. 中村カンナ)、アドマイヤベガ (CV. 咲々木瞳)、テイエムオペラオー (CV. 徳井青空)",
+  "createdAt": "2026-03-03T09:47:52.417069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glorious Moment!",
+      "artist": "Narita Top Road (CV: Kanna Nakamura)",
+      "has_synced": false,
+      "path": "select/01_Glorious_Moment!_Narita_Top_Road_(CV__Kanna_Nakamura).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glorious Moment!",
+      "artist": "ナリタトップロード(中村カンナ),アドマイヤベガ(咲々木瞳),テイエムオペラオー(徳井青空)",
+      "has_synced": false,
+      "path": "select/pl_01_Glorious_Moment!_ナリタトップロード(中村カンナ),アドマイヤベガ(咲々木瞳),テイエムオペラオー(徳井青空).txt"
+    }
+  ]
+}
